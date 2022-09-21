@@ -1,0 +1,4580 @@
+[
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-19",
+        "price": 90.662506
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-18",
+        "price": 84.05924
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-17",
+        "price": 80.07169
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-16",
+        "price": 72.81187
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-15",
+        "price": 70.595795
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-14",
+        "price": 65.394844
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-13",
+        "price": 69.74117
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-12",
+        "price": 70.861496
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-11",
+        "price": 72.635864
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-10",
+        "price": 78.550095
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-09",
+        "price": 71.76102
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-08",
+        "price": 71.73606
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-07",
+        "price": 72.86415
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-06",
+        "price": 74.50422
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-05",
+        "price": 76.572105
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-04",
+        "price": 82.189316
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-03",
+        "price": 81.49358
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-02",
+        "price": 84.208206
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-03-01",
+        "price": 84.49819
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-28",
+        "price": 73.80425
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-27",
+        "price": 77.46274
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-26",
+        "price": 79.39092
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-25",
+        "price": 78.91979
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-24",
+        "price": 74.43683
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-23",
+        "price": 75.82694
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-22",
+        "price": 71.74622
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-21",
+        "price": 73.061066
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-20",
+        "price": 80.89533
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-19",
+        "price": 85.056015
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-18",
+        "price": 85.12625
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-17",
+        "price": 95.51181
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-16",
+        "price": 97.062065
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-15",
+        "price": 88.71873
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-14",
+        "price": 81.26348
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-13",
+        "price": 78.46125
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-12",
+        "price": 81.32229
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-11",
+        "price": 83.78855
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-10",
+        "price": 92.589485
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-09",
+        "price": 89.649796
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-08",
+        "price": 86.02007
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-07",
+        "price": 80.5548
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-06",
+        "price": 76.87515
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-05",
+        "price": 77.67552
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-04",
+        "price": 69.1048
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-03",
+        "price": 67.800766
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-02",
+        "price": 71.3111
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-02-01",
+        "price": 72.11777
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-31",
+        "price": 69.1365
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-30",
+        "price": 68.536194
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-29",
+        "price": 71.141365
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-28",
+        "price": 66.27561
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-27",
+        "price": 63.955673
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-26",
+        "price": 65.64776
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-25",
+        "price": 67.50781
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-24",
+        "price": 62.186127
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-23",
+        "price": 62.943657
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-22",
+        "price": 52.80319
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-21",
+        "price": 74.56771
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-20",
+        "price": 81.93457
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-19",
+        "price": 84.508156
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-18",
+        "price": 85.87771
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-17",
+        "price": 88.75344
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-16",
+        "price": 92.43527
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-15",
+        "price": 93.50177
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-14",
+        "price": 89.06851
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-13",
+        "price": 92.974266
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-12",
+        "price": 92.768425
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-11",
+        "price": 87.57136
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-10",
+        "price": 84.27142
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-09",
+        "price": 87.80827
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-08",
+        "price": 83.568245
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-07",
+        "price": 89.76027
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-06",
+        "price": 96.541336
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-05",
+        "price": 103.00544
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-04",
+        "price": 104.10103
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-03",
+        "price": 110.39672
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-02",
+        "price": 114.486176
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2022-01-01",
+        "price": 111.24099
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-31",
+        "price": 111.44253
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-30",
+        "price": 100.349915
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-29",
+        "price": 105.875565
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-28",
+        "price": 113.571526
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-27",
+        "price": 113.903824
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-26",
+        "price": 114.769714
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-25",
+        "price": 115.84322
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-24",
+        "price": 115.49495
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-23",
+        "price": 116.46205
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-22",
+        "price": 117.661354
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-21",
+        "price": 118.73163
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-20",
+        "price": 114.03518
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-19",
+        "price": 108.395836
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-18",
+        "price": 114.70059
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-17",
+        "price": 115.382576
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-16",
+        "price": 101.91137
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-15",
+        "price": 99.99378
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-14",
+        "price": 84.32092
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-13",
+        "price": 84.53905
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-12",
+        "price": 86.57674
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-11",
+        "price": 82.745255
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-10",
+        "price": 82.97835
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-09",
+        "price": 91.633514
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-08",
+        "price": 93.4779
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-07",
+        "price": 89.85357
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-06",
+        "price": 90.5514
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-05",
+        "price": 85.17725
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-04",
+        "price": 100.370895
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-03",
+        "price": 113.809586
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-02",
+        "price": 110.05401
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-12-01",
+        "price": 118.89142
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-30",
+        "price": 123.485405
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-29",
+        "price": 117.06423
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-28",
+        "price": 106.21972
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-27",
+        "price": 109.8982
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-26",
+        "price": 114.477264
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-25",
+        "price": 115.54033
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-24",
+        "price": 117.096054
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-23",
+        "price": 120.978424
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-22",
+        "price": 141.14252
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-21",
+        "price": 133.30348
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-20",
+        "price": 123.12292
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-19",
+        "price": 107.34206
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-18",
+        "price": 104.07799
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-17",
+        "price": 107.92518
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-16",
+        "price": 104.850006
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-15",
+        "price": 96.97735
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-14",
+        "price": 94.476036
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-13",
+        "price": 97.463844
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-12",
+        "price": 86.03025
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-11",
+        "price": 87.81309
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-10",
+        "price": 88.00433
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-09",
+        "price": 89.14188
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-08",
+        "price": 85.74755
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-07",
+        "price": 85.97749
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-06",
+        "price": 78.15774
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-05",
+        "price": 75.22351
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-04",
+        "price": 80.95947
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-03",
+        "price": 74.93861
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-02",
+        "price": 65.24643
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-11-01",
+        "price": 65.14353
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-31",
+        "price": 64.736755
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-30",
+        "price": 62.592148
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-29",
+        "price": 63.202488
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-28",
+        "price": 62.086575
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-27",
+        "price": 63.884808
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-26",
+        "price": 72.21748
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-25",
+        "price": 67.21756
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-24",
+        "price": 64.75529
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-23",
+        "price": 65.131516
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-22",
+        "price": 67.531784
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-21",
+        "price": 65.00129
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-20",
+        "price": 58.109608
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-19",
+        "price": 55.070343
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-18",
+        "price": 55.11584
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-17",
+        "price": 55.951015
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-16",
+        "price": 58.59089
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-15",
+        "price": 52.38613
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-14",
+        "price": 56.242798
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-13",
+        "price": 54.179226
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-12",
+        "price": 55.189445
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-11",
+        "price": 52.220585
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-10",
+        "price": 57.19813
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-09",
+        "price": 59.653263
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-08",
+        "price": 60.19448
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-07",
+        "price": 63.260605
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-06",
+        "price": 56.14349
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-05",
+        "price": 61.95383
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-04",
+        "price": 63.731125
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-03",
+        "price": 68.253075
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-02",
+        "price": 69.74486
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-10-01",
+        "price": 61.520218
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-30",
+        "price": 62.94918
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-29",
+        "price": 64.43001
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-28",
+        "price": 62.942085
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-27",
+        "price": 68.07068
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-26",
+        "price": 66.499565
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-25",
+        "price": 68.74362
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-24",
+        "price": 76.83192
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-23",
+        "price": 73.89044
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-22",
+        "price": 68.24994
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-21",
+        "price": 63.13969
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-20",
+        "price": 63.506687
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-19",
+        "price": 71.28999
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-18",
+        "price": 66.93304
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-17",
+        "price": 71.952614
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-16",
+        "price": 68.6025
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-15",
+        "price": 56.204174
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-14",
+        "price": 49.195366
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-13",
+        "price": 54.810043
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-12",
+        "price": 58.451305
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-11",
+        "price": 57.901497
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-10",
+        "price": 51.062935
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-09",
+        "price": 40.379208
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-08",
+        "price": 37.471447
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-07",
+        "price": 43.079884
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-06",
+        "price": 46.161842
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-05",
+        "price": 46.53378
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-04",
+        "price": 47.114132
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-03",
+        "price": 45.497215
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-02",
+        "price": 46.80873
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-09-01",
+        "price": 41.46159
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-31",
+        "price": 39.491924
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-30",
+        "price": 43.037933
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-29",
+        "price": 47.590946
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-28",
+        "price": 50.309067
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-27",
+        "price": 48.762997
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-26",
+        "price": 43.894657
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-25",
+        "price": 46.488747
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-24",
+        "price": 57.095787
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-23",
+        "price": 45.908543
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-22",
+        "price": 43.16893
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-21",
+        "price": 43.955505
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-20",
+        "price": 36.37539
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-19",
+        "price": 30.30602
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-18",
+        "price": 29.329165
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-17",
+        "price": 24.278042
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-16",
+        "price": 19.526623
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-15",
+        "price": 18.724844
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-14",
+        "price": 18.264408
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-13",
+        "price": 16.990725
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-12",
+        "price": 16.954632
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-11",
+        "price": 16.690134
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-10",
+        "price": 16.765846
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-09",
+        "price": 15.222241
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-08",
+        "price": 15.123293
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-07",
+        "price": 15.36187
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-06",
+        "price": 14.123974
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-05",
+        "price": 13.476929
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-04",
+        "price": 13.156716
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-03",
+        "price": 12.923893
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-02",
+        "price": 13.27128
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-08-01",
+        "price": 13.45862
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-31",
+        "price": 13.585252
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-30",
+        "price": 12.38271
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-29",
+        "price": 12.389656
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-28",
+        "price": 11.960955
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-27",
+        "price": 11.249819
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-26",
+        "price": 10.885739
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-25",
+        "price": 10.891216
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-24",
+        "price": 10.932605
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-23",
+        "price": 10.7145815
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-22",
+        "price": 10.880626
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-21",
+        "price": 9.683323
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-20",
+        "price": 9.957646
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-19",
+        "price": 10.608091
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-18",
+        "price": 10.718036
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-17",
+        "price": 10.885004
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-16",
+        "price": 10.978161
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-15",
+        "price": 11.854014
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-14",
+        "price": 11.722326
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-13",
+        "price": 12.12058
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-12",
+        "price": 12.607285
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-11",
+        "price": 12.154867
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-10",
+        "price": 12.209284
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-09",
+        "price": 12.2842245
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-08",
+        "price": 12.546451
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-07",
+        "price": 13.16038
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-06",
+        "price": 13.3429165
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-05",
+        "price": 12.669359
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-04",
+        "price": 12.169701
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-03",
+        "price": 11.246537
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-02",
+        "price": 11.044895
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-07-01",
+        "price": 11.802143
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-30",
+        "price": 12.286648
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-29",
+        "price": 11.4473
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-28",
+        "price": 11.39549
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-27",
+        "price": 10.166972
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-26",
+        "price": 10.225956
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-25",
+        "price": 11.337484
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-24",
+        "price": 11.130963
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-23",
+        "price": 11.04938
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-22",
+        "price": 10.312721
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-21",
+        "price": 12.7402
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-20",
+        "price": 13.873638
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-19",
+        "price": 13.598942
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-18",
+        "price": 14.551388
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-17",
+        "price": 14.853778
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-16",
+        "price": 14.773172
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-15",
+        "price": 14.914883
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-14",
+        "price": 14.59818
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-13",
+        "price": 13.495001
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-12",
+        "price": 14.257241
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-11",
+        "price": 13.318771
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-10",
+        "price": 14.5749445
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-09",
+        "price": 13.793667
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-08",
+        "price": 14.834016
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-07",
+        "price": 16.472391
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-06",
+        "price": 17.264103
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-05",
+        "price": 17.808895
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-04",
+        "price": 19.390472
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-03",
+        "price": 19.50575
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-02",
+        "price": 18.309587
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-06-01",
+        "price": 18.165495
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-31",
+        "price": 17.287012
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-30",
+        "price": 16.113033
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-29",
+        "price": 16.607397
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-28",
+        "price": 18.170662
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-27",
+        "price": 19.478455
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-26",
+        "price": 20.001448
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-25",
+        "price": 19.736626
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-24",
+        "price": 17.46498
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-23",
+        "price": 16.998955
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-22",
+        "price": 18.747484
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-21",
+        "price": 23.568727
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-20",
+        "price": 22.891102
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-19",
+        "price": 27.343853
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-18",
+        "price": 37.15197
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-17",
+        "price": 36.100163
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-16",
+        "price": 36.668743
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-15",
+        "price": 36.635834
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-14",
+        "price": 37.282204
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-13",
+        "price": 35.08634
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-12",
+        "price": 38.35305
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-11",
+        "price": 36.67988
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-10",
+        "price": 36.547867
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-09",
+        "price": 36.898163
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-08",
+        "price": 37.28502
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-07",
+        "price": 36.73004
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-06",
+        "price": 37.330868
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-05",
+        "price": 33.07306
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-04",
+        "price": 32.668236
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-03",
+        "price": 35.789783
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-02",
+        "price": 31.976929
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-05-01",
+        "price": 31.886063
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-04-30",
+        "price": 30.42685
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-04-29",
+        "price": 28.614975
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-04-28",
+        "price": 28.442867
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped AVAX",
+            "contract_ticker_symbol": "WAVAX",
+            "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+        },
+        "date": "2021-04-27",
+        "price": 27.918917
+    }
+]

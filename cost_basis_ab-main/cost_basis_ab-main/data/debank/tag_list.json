@@ -1,0 +1,80 @@
+{
+  "_seconds": 0.0003597736358642578,
+  "data": {
+    "tag_list": [
+      {
+        "id": "yield_aggregator",
+        "name": "Yield-Aggregator"
+      },
+      {
+        "id": "dex_aggregator",
+        "name": "DEX-Aggregator"
+      },
+      {
+        "id": "dex",
+        "name": "DEX"
+      },
+      {
+        "id": "amm",
+        "name": "AMM"
+      },
+      {
+        "id": "synthetic_assets",
+        "name": "Synthetic-Assets"
+      },
+      {
+        "id": "options",
+        "name": "Options"
+      },
+      {
+        "id": "asset_management",
+        "name": "Asset-Management"
+      },
+      {
+        "id": "debt",
+        "name": "Lending"
+      },
+      {
+        "id": "nft",
+        "name": "NFT"
+      },
+      {
+        "id": "perpetuals",
+        "name": "Perpetuals"
+      },
+      {
+        "id": "dao",
+        "name": "DAO"
+      },
+      {
+        "id": "anonymous_transfer",
+        "name": "Anonymous-Transfer"
+      },
+      {
+        "id": "oracle",
+        "name": "Oracle"
+      },
+      {
+        "id": "cross_chain",
+        "name": "Cross-Chain"
+      },
+      {
+        "id": "insurance",
+        "name": "Insurance"
+      },
+      {
+        "id": "algorithmic_stablecoin",
+        "name": "Algorithmic-Stablecoin"
+      },
+      {
+        "id": "layer2",
+        "name": "Layer2"
+      },
+      {
+        "id": "ido",
+        "name": "IDO"
+      }
+    ]
+  },
+  "error_code": 0
+}

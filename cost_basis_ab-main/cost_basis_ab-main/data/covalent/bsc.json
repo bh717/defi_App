@@ -1,0 +1,5420 @@
+[
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-19",
+        "price": 401.151
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-18",
+        "price": 397.56815
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-17",
+        "price": 392.2322
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-16",
+        "price": 385.2192
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-15",
+        "price": 371.90857
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-14",
+        "price": 372.92258
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-13",
+        "price": 362.02933
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-12",
+        "price": 372.94394
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-11",
+        "price": 379.09598
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-10",
+        "price": 373.7069
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-09",
+        "price": 396.55753
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-08",
+        "price": 386.6617
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-07",
+        "price": 373.90283
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-06",
+        "price": 375.1019
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-05",
+        "price": 380.21603
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-04",
+        "price": 477.61044
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-03",
+        "price": 403.23102
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-02",
+        "price": 412.78812
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-03-01",
+        "price": 402.7879
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-28",
+        "price": 394.62042
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-27",
+        "price": 358.05695
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-26",
+        "price": 446.62613
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-25",
+        "price": 368.16354
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-24",
+        "price": 361.9381
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-23",
+        "price": 369.4261
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-22",
+        "price": 363.55698
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-21",
+        "price": 374.8792
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-20",
+        "price": 379.1388
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-19",
+        "price": 401.05157
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-18",
+        "price": 395.6016
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-17",
+        "price": 408.74823
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-16",
+        "price": 428.43216
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-15",
+        "price": 425.65518
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-14",
+        "price": 401.1984
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-13",
+        "price": 395.73306
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-12",
+        "price": 403.70532
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-11",
+        "price": 398.73022
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-10",
+        "price": 415.2654
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-09",
+        "price": 422.0469
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-08",
+        "price": 419.66855
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-07",
+        "price": 436.47546
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-06",
+        "price": 418.15002
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-05",
+        "price": 416.07916
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-04",
+        "price": 383.19498
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-03",
+        "price": 365.10214
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-02",
+        "price": 372.6707
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-02-01",
+        "price": 385.94125
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-31",
+        "price": 381.40408
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-30",
+        "price": 378.75912
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-29",
+        "price": 382.27695
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-28",
+        "price": 381.28067
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-27",
+        "price": 394.67584
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-26",
+        "price": 374.06165
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-25",
+        "price": 374.60742
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-24",
+        "price": 372.6966
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-23",
+        "price": 372.58218
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-22",
+        "price": 357.175
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-21",
+        "price": 386.21234
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-20",
+        "price": 452.264
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-19",
+        "price": 461.85944
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-18",
+        "price": 460.31888
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-17",
+        "price": 477.7605
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-16",
+        "price": 498.97705
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-15",
+        "price": 492.1063
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-14",
+        "price": 481.40063
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-13",
+        "price": 470.71008
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-12",
+        "price": 476.2499
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-11",
+        "price": 452.10583
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-10",
+        "price": 422.9155
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-09",
+        "price": 438.0214
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-08",
+        "price": 428.18445
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-07",
+        "price": 512.09644
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-06",
+        "price": 467.4754
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-05",
+        "price": 474.61176
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-04",
+        "price": 510.24872
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-03",
+        "price": 523.50336
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-02",
+        "price": 531.33527
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2022-01-01",
+        "price": 525.8578
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-31",
+        "price": 517.2
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-30",
+        "price": 520.5128
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-29",
+        "price": 516.61304
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-28",
+        "price": 533.4525
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-27",
+        "price": 557.1191
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-26",
+        "price": 548.5785
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-25",
+        "price": 549.4044
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-24",
+        "price": 537.6634
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-23",
+        "price": 551.6581
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-22",
+        "price": 536.0836
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-21",
+        "price": 528.22644
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-20",
+        "price": 523.2274
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-19",
+        "price": 532.568
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-18",
+        "price": 533.9413
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-17",
+        "price": 530.5784
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-16",
+        "price": 538.9989
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-15",
+        "price": 531.8617
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-14",
+        "price": 526.26025
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-13",
+        "price": 530.3442
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-12",
+        "price": 567.8007
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-11",
+        "price": 565.6943
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-10",
+        "price": 567.4321
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-09",
+        "price": 572.0456
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-08",
+        "price": 606.8809
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-07",
+        "price": 578.20966
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-06",
+        "price": 587.5045
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-05",
+        "price": 556.2011
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-04",
+        "price": 569.79315
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-03",
+        "price": 594.80414
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-02",
+        "price": 619.8507
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-12-01",
+        "price": 626.94867
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-30",
+        "price": 626.79517
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-29",
+        "price": 624.71094
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-28",
+        "price": 610.4549
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-27",
+        "price": 599.54675
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-26",
+        "price": 585.4423
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-25",
+        "price": 638.2977
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-24",
+        "price": 590.8366
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-23",
+        "price": 587.16614
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-22",
+        "price": 558.5961
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-21",
+        "price": 584.48755
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-20",
+        "price": 603.5142
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-19",
+        "price": 580.45215
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-18",
+        "price": 531.56836
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-17",
+        "price": 577.6674
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-16",
+        "price": 589.8836
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-15",
+        "price": 633.86676
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-14",
+        "price": 650.9456
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-13",
+        "price": 651.7914
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-12",
+        "price": 627.7562
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-11",
+        "price": 630.84845
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-10",
+        "price": 615.26843
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-09",
+        "price": 636.87994
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-08",
+        "price": 653.1674
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-07",
+        "price": 648.573
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-06",
+        "price": 635.59546
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-05",
+        "price": 607.23193
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-04",
+        "price": 558.6072
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-03",
+        "price": 566.20667
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-02",
+        "price": 553.5788
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-11-01",
+        "price": 548.55084
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-31",
+        "price": 524.638
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-30",
+        "price": 524.5173
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-29",
+        "price": 530.7956
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-28",
+        "price": 492.65417
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-27",
+        "price": 448.36765
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-26",
+        "price": 478.1335
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-25",
+        "price": 484.26718
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-24",
+        "price": 476.01025
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-23",
+        "price": 485.34488
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-22",
+        "price": 478.56775
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-21",
+        "price": 470.52408
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-20",
+        "price": 501.66653
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-19",
+        "price": 489.377
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-18",
+        "price": 484.28052
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-17",
+        "price": 470.80106
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-16",
+        "price": 466.20895
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-15",
+        "price": 475.90726
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-14",
+        "price": 472.23846
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-13",
+        "price": 470.3619
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-12",
+        "price": 441.20016
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-11",
+        "price": 413.30145
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-10",
+        "price": 404.39084
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-09",
+        "price": 421.16077
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-08",
+        "price": 419.25986
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-07",
+        "price": 439.401
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-06",
+        "price": 435.61932
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-05",
+        "price": 442.42313
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-04",
+        "price": 426.18787
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-03",
+        "price": 430.77295
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-02",
+        "price": 428.262
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-10-01",
+        "price": 421.09692
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-30",
+        "price": 387.15256
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-29",
+        "price": 366.7775
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-28",
+        "price": 332.3295
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-27",
+        "price": 336.42172
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-26",
+        "price": 343.19797
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-25",
+        "price": 350.39413
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-24",
+        "price": 354.68066
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-23",
+        "price": 382.63223
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-22",
+        "price": 379.16473
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-21",
+        "price": 344.53745
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-20",
+        "price": 362.58496
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-19",
+        "price": 408.15924
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-18",
+        "price": 410.58826
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-17",
+        "price": 406.49512
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-16",
+        "price": 424.24503
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-15",
+        "price": 431.21216
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-14",
+        "price": 413.33527
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-13",
+        "price": 398.71844
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-12",
+        "price": 416.8232
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-11",
+        "price": 403.99017
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-10",
+        "price": 401.4602
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-09",
+        "price": 420.35303
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-08",
+        "price": 414.583
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-07",
+        "price": 416.46512
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-06",
+        "price": 496.20514
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-05",
+        "price": 502.57812
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-04",
+        "price": 498.26755
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-03",
+        "price": 487.32257
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-02",
+        "price": 485.09064
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-09-01",
+        "price": 490.73596
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-31",
+        "price": 464.79773
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-30",
+        "price": 459.468
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-29",
+        "price": 481.48688
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-28",
+        "price": 486.10583
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-27",
+        "price": 493.83075
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-26",
+        "price": 476.5602
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-25",
+        "price": 503.16882
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-24",
+        "price": 470.85495
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-23",
+        "price": 499.48444
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-22",
+        "price": 449.80768
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-21",
+        "price": 449.98148
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-20",
+        "price": 454.05054
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-19",
+        "price": 429.73547
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-18",
+        "price": 397.42715
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-17",
+        "price": 401.0701
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-16",
+        "price": 416.34515
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-15",
+        "price": 413.35263
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-14",
+        "price": 407.9883
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-13",
+        "price": 410.04865
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-12",
+        "price": 384.78378
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-11",
+        "price": 392.3606
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-10",
+        "price": 371.57086
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-09",
+        "price": 353.63873
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-08",
+        "price": 342.32382
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-07",
+        "price": 355.95233
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-06",
+        "price": 340.7284
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-05",
+        "price": 337.97827
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-04",
+        "price": 334.52756
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-03",
+        "price": 321.91095
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-02",
+        "price": 330.45724
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-08-01",
+        "price": 333.37045
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-31",
+        "price": 333.8515
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-30",
+        "price": 319.07782
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-29",
+        "price": 317.42953
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-28",
+        "price": 313.1445
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-27",
+        "price": 312.5676
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-26",
+        "price": 304.36707
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-25",
+        "price": 301.42908
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-24",
+        "price": 300.31058
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-23",
+        "price": 297.92578
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-22",
+        "price": 292.77228
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-21",
+        "price": 291.51004
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-20",
+        "price": 264.41052
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-19",
+        "price": 281.27612
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-18",
+        "price": 301.41653
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-17",
+        "price": 301.9641
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-16",
+        "price": 303.6305
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-15",
+        "price": 314.35443
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-14",
+        "price": 308.23203
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-13",
+        "price": 308.2069
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-12",
+        "price": 315.2134
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-11",
+        "price": 322.6269
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-10",
+        "price": 315.73587
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-09",
+        "price": 316.91763
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-08",
+        "price": 309.12665
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-07",
+        "price": 327.90717
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-06",
+        "price": 318.97235
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-05",
+        "price": 304.885
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-04",
+        "price": 307.081
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-03",
+        "price": 298.11542
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-02",
+        "price": 288.2012
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-07-01",
+        "price": 76.8663
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-30",
+        "price": 296.58112
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-29",
+        "price": 296.18405
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-28",
+        "price": 291.55005
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-27",
+        "price": 273.60727
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-26",
+        "price": 267.40396
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-25",
+        "price": 285.7977
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-24",
+        "price": 312.4717
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-23",
+        "price": 294.82574
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-22",
+        "price": 264.74832
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-21",
+        "price": 278.20438
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-20",
+        "price": 337.6364
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-19",
+        "price": 329.66495
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-18",
+        "price": 331.07867
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-17",
+        "price": 341.7569
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-16",
+        "price": 352.05386
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-15",
+        "price": 369.43378
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-14",
+        "price": 369.65137
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-13",
+        "price": 357.15756
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-12",
+        "price": 355.53775
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-11",
+        "price": 346.58905
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-10",
+        "price": 355.2141
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-09",
+        "price": 366.82974
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-08",
+        "price": 351.26843
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-07",
+        "price": 372.48163
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-06",
+        "price": 378.10147
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-05",
+        "price": 387.7691
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-04",
+        "price": 396.2071
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-03",
+        "price": 416.4873
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-02",
+        "price": 396.97565
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-06-01",
+        "price": 349.22894
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-31",
+        "price": 340.77908
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-30",
+        "price": 327.97577
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-29",
+        "price": 301.28763
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-28",
+        "price": 397.22687
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-27",
+        "price": 376.86066
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-26",
+        "price": 369.45755
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-25",
+        "price": 337.73825
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-24",
+        "price": 323.37903
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-23",
+        "price": 243.9645
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-22",
+        "price": 309.0936
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-21",
+        "price": 319.3188
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-20",
+        "price": 390.96494
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-19",
+        "price": 307.6315
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-18",
+        "price": 510.5994
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-17",
+        "price": 526.6536
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-16",
+        "price": 568.0987
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-15",
+        "price": 564.4643
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-14",
+        "price": 593.57745
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-13",
+        "price": 584.1983
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-12",
+        "price": 662.59064
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-11",
+        "price": 662.3834
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-10",
+        "price": 665.89777
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-09",
+        "price": 663.22485
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-08",
+        "price": 642.0424
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-07",
+        "price": 621.06036
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-06",
+        "price": 639.4482
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-05",
+        "price": 645.997
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-04",
+        "price": 614.81323
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-03",
+        "price": 667.00604
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-02",
+        "price": 631.1498
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-05-01",
+        "price": 628.13824
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-30",
+        "price": 616.45197
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-29",
+        "price": 605.7002
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-28",
+        "price": 557.318
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-27",
+        "price": 567.0283
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-26",
+        "price": 532.00085
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-25",
+        "price": 495.98322
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-24",
+        "price": 504.6301
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-23",
+        "price": 524.6311
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-22",
+        "price": 505.11893
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-21",
+        "price": 548.1794
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-20",
+        "price": 558.32446
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-19",
+        "price": 511.62408
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-18",
+        "price": 490.00784
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-17",
+        "price": 516.8796
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-16",
+        "price": 507.54688
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-15",
+        "price": 549.6112
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-14",
+        "price": 544.22296
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-13",
+        "price": 561.9121
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-12",
+        "price": 588.9192
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-11",
+        "price": 500.04376
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-10",
+        "price": 477.19537
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-09",
+        "price": 433.53543
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-08",
+        "price": 409.85208
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-07",
+        "price": 385.1291
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-06",
+        "price": 401.68533
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-05",
+        "price": 373.5623
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-04",
+        "price": 347.945
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-03",
+        "price": 334.1627
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-02",
+        "price": 330.10538
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-04-01",
+        "price": 338.77744
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-31",
+        "price": 301.73328
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-30",
+        "price": 311.61734
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-29",
+        "price": 273.0108
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-28",
+        "price": 270.45477
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-27",
+        "price": 264.4863
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-26",
+        "price": 257.28323
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-25",
+        "price": 234.80823
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-24",
+        "price": 248.17117
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-23",
+        "price": 256.3524
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-22",
+        "price": 257.10883
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-21",
+        "price": 262.17416
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-20",
+        "price": 262.17416
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-19",
+        "price": 262.17413
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-18",
+        "price": 262.1742
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-17",
+        "price": 262.17416
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-16",
+        "price": 263.70877
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-15",
+        "price": 263.70877
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-14",
+        "price": 275.3555
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-13",
+        "price": 275.3555
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-12",
+        "price": 275.3555
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-11",
+        "price": 275.3555
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-10",
+        "price": 294.5764
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-09",
+        "price": 261.2066
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-08",
+        "price": 270.28232
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-07",
+        "price": 270.28232
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-06",
+        "price": 270.28232
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-05",
+        "price": 170.01141
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-04",
+        "price": 228.10368
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-03",
+        "price": 228.10368
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-02",
+        "price": 228.10368
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-03-01",
+        "price": 228.10368
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-02-28",
+        "price": 228.10368
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-02-27",
+        "price": 228.10368
+    },
+    {
+        "contract_metadata": {
+            "contract_decimals": 18,
+            "contract_name": "Wrapped BNB",
+            "contract_ticker_symbol": "WBNB",
+            "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "supports_erc": [
+                "erc20"
+            ],
+            "logo_url": "https://logos.covalenthq.com/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+        },
+        "date": "2021-02-26",
+        "price": 228.10367
+    }
+]

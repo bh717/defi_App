@@ -1,0 +1,132 @@
+//This is Backup file
+//const { default: Moralis } = require("moralis/types")
+
+//Heroku URL
+//const serverURL = 'https://defireturn-backend-dev.herokuapp.com';//dev Mode
+//const serverURL = 'https://defireturn-backend.herokuapp.com';//prod Mode
+
+Moralis.settings.setAPIRateLimit({
+    anonymous: 3550, authenticated: 3550, windowMs: 60000
+})
+
+Moralis.Cloud.job("UpdatePricesJob", async (request) => {
+    const chainCoins = {
+        polygon: {
+            chainId: "matic",
+            address: "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+            priceStep: 300
+        },
+        eth: {
+            chainId: "eth",
+            address: "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            priceStep: 100
+        },
+        bsc: {
+            chainId: "bsc",
+            address: "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            priceStep: 300
+        },
+        fantom: {
+            chainId: "ftm",
+            address: "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+            priceStep: 1000
+        },
+        avalanche: {
+            chainId: "avax",
+            address: "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            priceStep: 300
+        },
+    };
+    const logger = Moralis.Cloud.getLogger();
+    const latestResult = await Moralis.Cloud.httpRequest({
+        method: 'POST',
+        url: `${serverURL}/mongoPrices/getLatest`
+    }).then(function (httpResponse) {
+        return { success: true, data: httpResponse.data };
+    }, function (httpResponse) {
+        return { success: false, error: httpResponse };
+    }).catch((err) => {
+        return { success: false, error: err };
+    });
+    if (!latestResult || latestResult.success == false) {
+        logger.info("UpdatePrices Job Error");
+        logger.info(error);
+        return;
+    }
+    logger.info("Get Latest Success");
+    logger.info(latestResult);
+    const latestBlockHeights = latestResult.data.latestBlockHeight;
+    const limitCount = 10;
+    let newPrices = {};
+    try {
+        for (const chain in chainCoins) {
+            const chainID = chainCoins[chain].chainId;
+            console.log("Update Started ", chainID);
+            const calcStep = chainCoins[chain].priceStep;
+            const nativeCoinAddress = chainCoins[chain].address;
+            let newChainPrices = [];
+
+            let curBlock = latestBlockHeights[chain];
+            if (curBlock == -1) {
+                continue;
+            }
+            curBlock += calcStep;
+            while (true) {
+                const options = {
+                    address: nativeCoinAddress,
+                    chain: chain,
+                    to_block: curBlock,
+                };
+                logger.info(`${chain} ${curBlock} started`);
+                const result = await Moralis.Web3API.token
+                    .getTokenPrice(options)
+                    .then((price) => {
+                        return { success: true, price: price.usdPrice };
+                    })
+                    .catch((err) => {
+                        logger.info(`Error ${curBlock} ${err?.error}`);
+                        return { success: false, error: err?.error };
+                    });
+                if (result.success == false) {
+                    if (result.error?.slice(0, 8) == "No pools") {
+                        break;
+                    }
+                    await new Promise(resolve => setTimeout(resolve, 1000));
+                }
+                else {
+                    logger.info(`${result.price} ${curBlock} ${chain}`);
+                    newChainPrices.push({price: result.price, block_height: curBlock});
+                    if (limitCount != -1 && newChainPrices.length >= limitCount) {
+                        break;
+                    }
+                }
+                curBlock += calcStep;
+            }
+            await new Promise(resolve => setTimeout(resolve, 500));
+            newPrices[chain] = newChainPrices;
+        }
+        const newPricesArrstr = JSON.stringify(newPrices);
+        logger.info(newPricesArrstr);
+        const updateResult = await Moralis.Cloud.httpRequest({
+            method: 'POST',
+            url: `${serverURL}/mongoPrices/updateDB`,
+            body: {
+                latestPrices: newPricesArrstr
+            }
+        }).then(function (httpResponse) {
+            return { success: true, data: httpResponse.data };
+        }, function (httpResponse) {
+            return { success: false, error: httpResponse };
+        });
+        if (updateResult.success == false) {
+            logger.error("UpdatePrices Job Error", error);
+            return;
+        } else {
+            logger.info("UpdatePrices Job finished Successfully");
+            return;
+        }
+    } catch (error) {
+        logger.info("UpdatePrices Job Error", error);
+        return;
+    }
+});

@@ -1,0 +1,261 @@
+export const WalletAddress = {
+    address:''
+}
+export const initialState = 
+    [{
+        id: 'q1', con_icon: 'assets/images/table-add-icon.jpg',
+        type: { title: 'Wallet', img: 'assets/images/wallet.jpg' },
+        protocol: { title: 'Polygon', img: 'assets/images/icon-1.jpg' },
+        tokens:['polygon','ethereum'],
+        assets: { title: 'Matic', img: ['assets/images/icon-1.jpg'] },
+        cost: { title: 50 },
+        value: { title: 500 },
+        profit: { title: 450 },
+        return: { title: 900 },
+        link: { title: 'https://polygonscan.com/' },
+        children: [{
+            level: 0, 
+            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x653a2c33353cdf53b0cc6ed15be260740c04236cac96242dcdc5b48dcca970c0'},
+            time: '13:23:43',
+            tokenName: { title: 'Kogefarm/WMATIC-POLYDOGE', img: 'assets/images/small-kogefarm.png',url:' https://kogefarm.io/vaults' },
+            txToken: 1740176.45,
+            costbasis: 458.75,
+            fee: 0.03,
+            children:[
+                 {
+                    level: 1, 
+                    date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                    time: '13:23:43',
+                    tokenName: { title: 'ApeSwap Fiance LPs', img: 'assets/images/apeSwap.png' ,url:' https://app.apeswap.finance/add/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/0x8a953cfe442c5e8855cc6c61b1293fa648bae472' },
+                    txToken: 2708776.01,
+                    costbasis: 458.75,
+                    fee: 0.01,
+                    children:[{
+                            level: 2,
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '08:50:12',
+                            tokenName: { title: 'WMATIC', img: 'assets/images/small-wmatic.png',url:' https://polygonscan.com/address/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270'  },
+                            txToken: 187.99,
+                            costbasis: 229.36,
+                            fee: ''
+                        },    {
+                            level: 2, 
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '11:09:12',
+                            tokenName: { title: 'PolyDoge', img: 'assets/images/small-polydoge.png',url:'  https://polygonscan.com/address/0x8a953cfe442c5e8855cc6c61b1293fa648bae472'  },
+                            txToken: 39720697990.7879,
+                            costbasis: 229.36,
+                            fee: ''
+                        }
+                    ]
+                },
+                
+            ]
+        }]
+    },
+    {
+        id: 'qq1', con_icon: 'assets/images/table-add-icon.jpg',
+        type: { title: 'Yield', img: 'assets/images/yield.jpg' },
+        protocol: { title: 'KogeFarm', img: 'assets/images/icon-2.jpg' },
+        tokens:['polygon'],
+        assets: { title: 'WMATIC+POLYDOGE', img: ['assets/images/icon-4.jpg', 'assets/images/icon-3.jpg'] },
+        cost: { title: 100 },
+        value: { title: 250 },
+        profit: { title: 150 },
+        return: { title: 150 },
+        link: { title: 'https://kogefarm.io/vaults' },
+        children: [{
+            level: 0, 
+            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x653a2c33353cdf53b0cc6ed15be260740c04236cac96242dcdc5b48dcca970c0'},
+            time: '13:23:43',
+            tokenName: { title: 'Kogefarm/WMATIC-POLYDOGE', img: 'assets/images/small-kogefarm.png',url:' https://kogefarm.io/vaults' },
+            txToken: 1740176.45,
+            costbasis: 458.75,
+            fee: 0.03,
+            children:[
+                 {
+                    level: 1, 
+                    date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                    time: '13:23:43',
+                    tokenName: { title: 'ApeSwap Fiance LPs', img: 'assets/images/apeSwap.png' ,url:' https://app.apeswap.finance/add/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/0x8a953cfe442c5e8855cc6c61b1293fa648bae472' },
+                    txToken: 2708776.01,
+                    costbasis: 458.75,
+                    fee: 0.01,
+                    children:[{
+                            level: 2,
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '08:50:12',
+                            tokenName: { title: 'WMATIC', img: 'assets/images/small-wmatic.png',url:' https://polygonscan.com/address/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270'  },
+                            txToken: 187.99,
+                            costbasis: 229.36,
+                            fee: ''
+                        },    {
+                            level: 2, 
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '11:09:12',
+                            tokenName: { title: 'PolyDoge', img: 'assets/images/small-polydoge.png',url:'  https://polygonscan.com/address/0x8a953cfe442c5e8855cc6c61b1293fa648bae472'  },
+                            txToken: 39720697990.7879,
+                            costbasis: 229.36,
+                            fee: ''
+                        }
+                    ]
+                },
+                
+            ]
+        }]
+    },
+    {
+        id: 'qqq1', con_icon: 'assets/images/table-add-icon.jpg',
+        type: { title: 'Yield', img: 'assets/images/yield.jpg' },
+        protocol: { title: 'KogeFarm', img: 'assets/images/icon-2.jpg' },
+        tokens:['polygon'],
+        assets: { title: 'WBTC+renBTC', img: ['assets/images/icon-9.jpg', 'assets/images/icon-10.jpg'] },
+        cost: { title: 200 },
+        value: { title: 187 },
+        profit: { title: -13 },
+        return: { title: -7 },
+        link: { title: 'https://kogefarm.io/vaults' },
+        children: [{
+            level: 0, 
+            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x653a2c33353cdf53b0cc6ed15be260740c04236cac96242dcdc5b48dcca970c0'},
+            time: '13:23:43',
+            tokenName: { title: 'Kogefarm/WMATIC-POLYDOGE', img: 'assets/images/small-kogefarm.png',url:' https://kogefarm.io/vaults' },
+            txToken: 1740176.45,
+            costbasis: 458.75,
+            fee: 0.03,
+            children:[
+                 {
+                    level: 1, 
+                    date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                    time: '13:23:43',
+                    tokenName: { title: 'ApeSwap Fiance LPs', img: 'assets/images/apeSwap.png' ,url:' https://app.apeswap.finance/add/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/0x8a953cfe442c5e8855cc6c61b1293fa648bae472' },
+                    txToken: 2708776.01,
+                    costbasis: 458.75,
+                    fee: 0.01,
+                    children:[{
+                            level: 2,
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '08:50:12',
+                            tokenName: { title: 'WMATIC', img: 'assets/images/small-wmatic.png',url:' https://polygonscan.com/address/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270'  },
+                            txToken: 187.99,
+                            costbasis: 229.36,
+                            fee: ''
+                        },    {
+                            level: 2, 
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '11:09:12',
+                            tokenName: { title: 'PolyDoge', img: 'assets/images/small-polydoge.png',url:'  https://polygonscan.com/address/0x8a953cfe442c5e8855cc6c61b1293fa648bae472'  },
+                            txToken: 39720697990.7879,
+                            costbasis: 229.36,
+                            fee: ''
+                        }
+                    ]
+                },
+                
+            ]
+        }]
+    },
+    {
+        id: 'qqqq1', con_icon: 'assets/images/table-add-icon.jpg',
+        type: { title: 'Yield', img: 'assets/images/yield.jpg' },
+        protocol: { title: 'PolyCat', img: 'assets/images/icon-5.jpg' },
+        tokens:['polygon'],
+        assets: { title: 'WMATIC+DAI', img: ['assets/images/icon-4.jpg', 'assets/images/icon-7.jpg'] },
+        cost: { title: 200 },
+        value: { title: 187 },
+        profit: { title: -13 },
+        return: { title: -7 },
+        link: { title: 'https://polycat.finance/' },
+        children: [{
+            level: 0, 
+            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x653a2c33353cdf53b0cc6ed15be260740c04236cac96242dcdc5b48dcca970c0'},
+            time: '13:23:43',
+            tokenName: { title: 'Kogefarm/WMATIC-POLYDOGE', img: 'assets/images/small-kogefarm.png',url:' https://kogefarm.io/vaults' },
+            txToken: 1740176.45,
+            costbasis: 458.75,
+            fee: 0.03,
+            children:[
+                 {
+                    level: 1, 
+                    date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                    time: '13:23:43',
+                    tokenName: { title: 'ApeSwap Fiance LPs', img: 'assets/images/apeSwap.png' ,url:' https://app.apeswap.finance/add/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/0x8a953cfe442c5e8855cc6c61b1293fa648bae472' },
+                    txToken: 2708776.01,
+                    costbasis: 458.75,
+                    fee: 0.01,
+                    children:[{
+                            level: 2,
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '08:50:12',
+                            tokenName: { title: 'WMATIC', img: 'assets/images/small-wmatic.png',url:' https://polygonscan.com/address/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270'  },
+                            txToken: 187.99,
+                            costbasis: 229.36,
+                            fee: ''
+                        },    {
+                            level: 2, 
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '11:09:12',
+                            tokenName: { title: 'PolyDoge', img: 'assets/images/small-polydoge.png',url:'  https://polygonscan.com/address/0x8a953cfe442c5e8855cc6c61b1293fa648bae472'  },
+                            txToken: 39720697990.7879,
+                            costbasis: 229.36,
+                            fee: ''
+                        }
+                    ]
+                },
+                
+            ]
+        }]
+    },
+    {
+        id: 'qqqqq1', con_icon: 'assets/images/table-add-icon.jpg',
+        type: { title: 'Lending', img: 'assets/images/lending.jpg' },
+        protocol: { title: 'AAVE', img: 'assets/images/icon-8.jpg' },
+        tokens:['polygon'],
+        assets: { title: '+WBTC-USDC', img: ['assets/images/icon-9.jpg', 'assets/images/icon-6.jpg'] },
+        cost: { title: 300 },
+        value: { title: 187 },
+        profit: { title: -113 },
+        return: { title: -38 },
+        link: { title: 'https://app.aave.com/#/dashboard' },
+        children: [{
+            level: 0, 
+            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x653a2c33353cdf53b0cc6ed15be260740c04236cac96242dcdc5b48dcca970c0'},
+            time: '13:23:43',
+            tokenName: { title: 'Kogefarm/WMATIC-POLYDOGE', img: 'assets/images/small-kogefarm.png',url:' https://kogefarm.io/vaults' },
+            txToken: 1740176.45,
+            costbasis: 458.75,
+            fee: 0.03,
+            children:[
+                 {
+                    level: 1, 
+                    date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                    time: '13:23:43',
+                    tokenName: { title: 'ApeSwap Fiance LPs', img: 'assets/images/apeSwap.png' ,url:' https://app.apeswap.finance/add/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/0x8a953cfe442c5e8855cc6c61b1293fa648bae472' },
+                    txToken: 2708776.01,
+                    costbasis: 458.75,
+                    fee: 0.01,
+                    children:[{
+                            level: 2,
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '08:50:12',
+                            tokenName: { title: 'WMATIC', img: 'assets/images/small-wmatic.png',url:' https://polygonscan.com/address/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270'  },
+                            txToken: 187.99,
+                            costbasis: 229.36,
+                            fee: ''
+                        },    {
+                            level: 2, 
+                            date: {title:'Oct-12-2021',url:'https://polygonscan.com/tx/0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678'},
+                            time: '11:09:12',
+                            tokenName: { title: 'PolyDoge', img: 'assets/images/small-polydoge.png',url:'  https://polygonscan.com/address/0x8a953cfe442c5e8855cc6c61b1293fa648bae472'  },
+                            txToken: 39720697990.7879,
+                            costbasis: 229.36,
+                            fee: ''
+                        }
+                    ]
+                },
+                
+            ]
+        }]
+    }
+    ]
+

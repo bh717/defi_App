@@ -1,0 +1,4 @@
+{
+  "server": "https://defireturn-backend-dev.herokuapp.com",
+  "serverLocal": "http://localhost:2083"
+}

@@ -1,0 +1,12 @@
+{
+  "dsn": "https://3d86f0ba1013409592098f088ec5046c@o1145006.ingest.sentry.io/6209707",
+  "moralis": {
+    "masterKey": "QZn1AyAVPbLyXy62qnAWEOXwqUdCsLHFBAvvl2AO",
+    "appId": "6fV66zsd6vkFhBP3AwLh7X2A3ANGL3B9OGbn5G8Y",
+    "serverUrl": "https://y5ia4cmzyxvr.usemoralis.com:2053/server"
+  },
+  "mongoURI": "mongodb+srv://defireturn_admin:zLSA0Pk8w1XhMfMk@cluster0.xq5ma.mongodb.net/defireturn_dev",
+  "mode": "dev",
+  "maxRetryCnt": 5,
+  "covalentKey": "ckey_346ff91e4fe34100ab0c6795071"
+}
